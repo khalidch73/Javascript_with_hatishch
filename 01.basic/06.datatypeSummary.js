@@ -1,3 +1,4 @@
+"use strict";
 // primitive data type 
 // string
 // number 
@@ -14,10 +15,10 @@
 // non primitive data / reference data type
 // arrays 
 // objects 
-var obj = {
+let obj = {
     name: 'ali',
     id: '123'
 };
 // function 
-var MYdata = function add(num1, num2) {
+const MYdata = function add(num1, num2) {
 };
